@@ -1,0 +1,72 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Endre Farkas and Suzanne Nuttall, 1995-04-30",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Featured performances by Farkas and Nuttall with supporting or open-mic performances by one, two, three, and four. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bistro 4 (address here) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1995-04-30"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": " ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "",
+  "created_at": "2025-04-22T21:29:39.600Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-04-22T21:29:39.600Z",
+  "updated_by": "jade-palmer"
+}
