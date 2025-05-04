@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "1eadecd3-8594-4291-8fac-03ed35ee7ce2": {
+      "label": "1995-01-23, Neil Wiernik and Fortner Anderson",
+      "is_offline": false,
+      "file_url": "https://youtu.be/zd5UNSy0zM0",
+      "duration": 1
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "1995-01-23, Neil Wiernik and Fortner Anderson",
+  "created_at": "2025-05-04T01:42:55.641Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-04T01:42:55.641Z",
+  "updated_by": "jade-palmer"
+}

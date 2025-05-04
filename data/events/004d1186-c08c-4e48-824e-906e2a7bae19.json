@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "43e12f87-1fad-4af1-bd88-3f9de1460b1b": {
+      "label": "1995-02-13, Benefit Part 2",
+      "is_offline": false,
+      "file_url": "https://youtu.be/zd5UNSy0zM0",
+      "duration": 1
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "1995-02-13, Benefit Part 2",
+  "created_at": "2025-05-04T01:42:55.641Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-04T01:42:55.641Z",
+  "updated_by": "jade-palmer"
+}
