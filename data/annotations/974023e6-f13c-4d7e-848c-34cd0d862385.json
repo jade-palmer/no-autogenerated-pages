@@ -1,5 +1,8133 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1d9dbe35-7d1f-460e-9732-03d84a974fe2"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're all in separate rooms. Look at that. Tj, where are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5b9ee769-6d89-4402-843f-1b68ba39dbb3"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm at tag."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "69b9dc89-7edc-49fd-948b-cef2d4dc70a0"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tag, what's tag."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "379ef5ac-9c3a-4e45-847c-4c7659a6533d"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The culture, art and games in the Ev building. It's part of my loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "fc8370fb-03fe-4622-91af-98f4656d4edb"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Center for technoculture, art, and games. Is that your desk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e8b598e0-c4a3-48a0-ab8f-88ffad4d2733"
+    },
+    {
+      "start_time": 23,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I'm inside the small room, so I don't distract anyone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "f278fa9d-3a62-44fe-b5bb-b84f4b76dbc4"
+    },
+    {
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "4e2afad2-dfa9-4e1c-aa92-b228df189d0c"
+    },
+    {
+      "start_time": 29,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool. So welcome to the second test meeting for the watch parties. So Tj, and I have. Well, I gave the spreadsheets to Tj. And Tj. Made a compilation video of the performance poetry party. So while we, you know, watch some of that video last time, I think it would be good to watch the compilation video and see if there's any. You know, hiccups and stuff in kind of the transitions and the fades and everything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a4f63558-f873-435f-b0be-76d49f3cb366"
+    },
+    {
+      "start_time": 55,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I also found a better way to broadcast video rather than sharing, sharing your screen. If you go to like advanced sharing options, you can directly share a video file. So we'll see if that's any better."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "00f49f4c-6448-4e87-ab0d-54607e81301e"
+    },
+    {
+      "start_time": 71,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and yeah, I guess I also had gray boxes and stuff that were really frustrating last time. So we'll see if those are still a problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "49662c01-628a-4c6a-b1fa-53ba723e4a7a"
+    },
+    {
+      "start_time": 79,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great and I'll just update you really quickly that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e3bbcd60-98be-4beb-b294-35322ff31d4b"
+    },
+    {
+      "start_time": 83,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "almost everyone has responded and are is planning on coming so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ec13e99b-f488-463d-b503-a75891e28a23"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Fantastic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ad4c1b7f-b349-49a8-b72a-e52371f99cb0"
+    },
+    {
+      "start_time": 90,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8, th and we'll have at least I think we'll have about 10 people. At least."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "2128baa0-1e42-4287-9d5f-57dd930b05db"
+    },
+    {
+      "start_time": 94,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic. Okay, that's great. So."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bcdd1038-189f-49a6-accd-144288360a71"
+    },
+    {
+      "start_time": 99,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individual emails were the way to go obviously meant to reply, I'm sorry. And then they, you know, like so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ea48e63f-9b7a-4909-a035-5033dd9a1e19"
+    },
+    {
+      "start_time": 107,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, and having a bit more of a personal touch rather than like it being BCC and kind of this more like formal thing. We had also asked like, Oh, do I need to make an AV annotate account?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "85fa532a-b2e0-49a7-8313-30811f510e9e"
+    },
+    {
+      "start_time": 118,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm like no, no, no, no, not at all. So I think that might have, you know, if that was a misunderstanding that other people had that might have been"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f7b98589-a139-4723-a317-c2c5866b249d"
+    },
+    {
+      "start_time": 127,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "also pushing people away. So we can kind of reword the email and go about it differently. To make sure that people just know that they have to show up on Zoom and have a good time, but that's like literally the only requirement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "719035c0-0a59-43fd-a111-06a9e77665a0"
+    },
+    {
+      "start_time": 138,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, Todd Swift noticed one error on the video captioning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "3b27ca1f-e8a8-4c47-b378-7e8d4354d275"
+    },
+    {
+      "start_time": 146,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where it said, Swifty Lazar instead of Swifty Lazarus. So that's 1 correction. We'll have to look at."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "bde71233-7dff-443c-8844-5400e55545ff"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "06baf59f-b0b1-4ea7-9f05-732151487ac3"
+    },
+    {
+      "start_time": 154,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gotcha. I will have to make that throughout"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1de85734-f839-42c9-b490-1262d3fd766b"
+    },
+    {
+      "start_time": 158,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "swallow and everything as well, because I think it always"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "387f11aa-a505-485f-8763-0b2bf01300e9"
+    },
+    {
+      "start_time": 162,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I I straight up thought that it was Swifty Lazar, so I'll make."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "05fd6693-5d6d-47cf-8b75-b88b28ee4304"
+    },
+    {
+      "start_time": 165,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7e387f76-cc40-426b-813c-e315b1fcdc11"
+    },
+    {
+      "start_time": 166,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To change that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "fd47a912-a5d1-4edd-a057-c6dc85fa8f58"
+    },
+    {
+      "start_time": 166,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then he also said, I don't have Tom's email. He's on Facebook, but he and I don't communicate, as he is sometimes insane, so"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "35054beb-56e5-498f-bb6f-1103c8cd7b40"
+    },
+    {
+      "start_time": 178,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "1a4ea671-931b-4b7d-bb48-bc700b3e95f2"
+    },
+    {
+      "start_time": 180,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's old coming from. That's old coming from Todd. But."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a80d7ca7-7cd8-4907-b95a-4b526be467b6"
+    },
+    {
+      "start_time": 183,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, exactly. Oh, that's very."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "86b692d2-e5f1-4bd3-87c7-ebcf25aec6ba"
+    },
+    {
+      "start_time": 185,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1e20cc57-358b-4bff-b89e-ac9183e44807"
+    },
+    {
+      "start_time": 186,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did reach out to to Tom Walsh on Facebook and I I hadn't heard anything like when we're doing rights requesting so"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ae0bb074-a349-45b7-97fa-7abc8d321598"
+    },
+    {
+      "start_time": 193,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "lost to the wind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e586d951-e1f5-4622-92de-428932332016"
+    },
+    {
+      "start_time": 195,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "cd66a189-02f9-45e2-9f6c-bee8dcabe323"
+    },
+    {
+      "start_time": 197,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Shall we watch?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1c7d10f1-fcc6-4e06-b01b-1818fcd3a5b6"
+    },
+    {
+      "start_time": 200,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So just before we start, are we going to be doing transcript as well as text chat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "08bae1e4-0dd1-415c-9375-c24748a5bc27"
+    },
+    {
+      "start_time": 212,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, with the with the recording, like, I'll get the the Chat Transcript, the audio transcript, video and audio of the of the recordings. We can kind of see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a689c062-baf5-4c87-8864-001926c32fae"
+    },
+    {
+      "start_time": 225,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess, how worthwhile and interesting the the audio transcript is. If we want to have it or not, but like it is being recorded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "68bdc2dd-0458-45ad-828d-a48feed4a96e"
+    },
+    {
+      "start_time": 234,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And just to prepare our preliminary remarks for the actual watch party. What are we going to be asking them to do right? So we just should practice that for a second. Right? So essentially, we're gathered here, you know. Thanks for being here. I'm sure there'll be a lot of excitement for you to just talk and back, channel each other, etc, as well. Which is another thing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "a577e3da-3c73-45f0-ace2-3e5a7bbdf4a4"
+    },
+    {
+      "start_time": 256,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we should maybe think about, because we should ask everyone to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "c5f24f93-7cbc-43c2-8724-5935e8c80975"
+    },
+    {
+      "start_time": 261,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "do the chatting for everyone right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "2aad2eb2-4456-4ca6-a5a2-ab059d09b56b"
+    },
+    {
+      "start_time": 266,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we want to get their permission to use everything at the top right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "45fc597e-9248-4f45-9274-9fdcb380d169"
+    },
+    {
+      "start_time": 271,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a747d3be-4bac-4af4-9f6f-9f5f46094a88"
+    },
+    {
+      "start_time": 271,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we'll ask for permission, and explain what we're doing with it. So that essentially everything that's chatted around what they see in the video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "bc5a149e-fbc5-44a3-b22e-6e81fc0d1015"
+    },
+    {
+      "start_time": 281,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "will become an annotation that will connect with a digital presentation of the video. And then everything that's said that's being transcribed automatically and timestamped. We're also going to try to create a layer of annotation, for"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e02ca375-809b-4000-ae7e-71434ecab13e"
+    },
+    {
+      "start_time": 296,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so those are the things we'll tell them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "8d466fe5-a637-46f2-8b70-9e4749a9d4e9"
+    },
+    {
+      "start_time": 300,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "do we want to establish rules around talking so that there's not too much overlap. Or should we just let it sort of free flow? I think one of the things we can experiment with today is trying to talk all at once versus you know, I think raising the hand would just be too much, because people are going to see things and want to respond, and we don't want to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "5ad71f2e-dd1e-454f-89eb-44d60a549971"
+    },
+    {
+      "start_time": 319,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cut off that spontaneity. You know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "f4570b29-d1ed-49b4-bdff-3b3d04bd118b"
+    },
+    {
+      "start_time": 322,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I guess, are we encouraging people to like talk over the video, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1f3909b5-ca72-468d-b418-69935ce665f9"
+    },
+    {
+      "start_time": 333,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video is playing. Or is this like more like after or before conversation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "8914f5e0-458b-4927-9fce-028346d135f3"
+    },
+    {
+      "start_time": 338,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think they can talk during the video, too. I mean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "6576428b-4114-40a7-a8d6-e29073727e44"
+    },
+    {
+      "start_time": 342,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we'll see how long, because even with the excerpts it may still seem long enough to allow for that to happen, you know. So we'll say, like, let's focus on making comments in the chat. But if you feel you just, you know, if you have to say something, it's gonna make its way onto the record as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ce4bd554-7281-48af-b0eb-3f08b9d9fc2a"
+    },
+    {
+      "start_time": 364,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and we'll tell them this is an experiment, you know, so try not to talk over any performance for too long. But if there's something you just have to say, go ahead and say it. You know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0c93fb9b-bb06-468c-84a7-15fca92e8ffc"
+    },
+    {
+      "start_time": 376,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "b1ec5da8-0229-44cb-acb8-96b20ee0093a"
+    },
+    {
+      "start_time": 382,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And do you want to watch the whole video now? Or work our way through a section of it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e0dc831b-909c-4b03-a975-cc17dc19942a"
+    },
+    {
+      "start_time": 387,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don't have to watch the whole video. I mean, we did watch like part of the performance poetry party the last time, so we could maybe start like part way through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "8c86a973-1e7b-43cc-a6db-b00c644d074e"
+    },
+    {
+      "start_time": 398,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the the full compilation video is 54Â min."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "467ef010-857c-40b8-a5ad-030ed2549cc9"
+    },
+    {
+      "start_time": 402,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, that's great. So we'll say that as well. The full compilation we've made a compilation of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "34787fd2-e5b7-4e38-addc-62eff657a13a"
+    },
+    {
+      "start_time": 408,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the poetry party, you know. Video,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "1cad7109-e056-44a6-9658-50cc1964ef83"
+    },
+    {
+      "start_time": 412,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we truncated every performance so that we could get the entire thing down to 54Â min."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e619a94a-6faa-4ac9-b734-582c079720f1"
+    },
+    {
+      "start_time": 419,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because otherwise it was how long and at least an hour and a half right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "2cc1d913-a3c8-47cc-b016-819d78a14450"
+    },
+    {
+      "start_time": 424,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was an hour and 50Â min."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "96a8596a-4609-4d86-bcbb-a285d1be32a5"
+    },
+    {
+      "start_time": 426,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it was almost 2Â h. So we felt that was that would have been asking too much. That said, We'll tell them we are planning on putting a full digital presentation of all of the shows up, you know, and the longer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7e6b948f-09cf-431a-ae64-9546551df32c"
+    },
+    {
+      "start_time": 440,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "version of even this episode will be available if they want to watch it, you know, so they'll never get to see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "f153847e-8a3c-4707-85e8-8d8bfa9353f6"
+    },
+    {
+      "start_time": 448,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f5d9a119-f9d0-4a14-b3e7-9224e7951811"
+    },
+    {
+      "start_time": 448,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But really the purpose of this exercise is to have a few performances"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0cf2d6fb-7f72-4534-ac6f-53987368e2d8"
+    },
+    {
+      "start_time": 457,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "presented with the annotations of those who performed, you know, 30 years later, talking about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "be5cc2b2-4f6d-4cd5-b6b8-8849ede4ba2a"
+    },
+    {
+      "start_time": 463,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because we think it'll be interesting for people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0df13b3b-9c16-48d8-9f16-c22a234a7442"
+    },
+    {
+      "start_time": 471,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It that last question, if we start in the middle, will it be more difficult to time up the Timestamps? Should we still. Just start at the beginning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "767535ff-0a7f-4022-9cf8-149775a6d447"
+    },
+    {
+      "start_time": 481,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I mean, I feel like these Timestamps aren't necessarily"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "86e4bce9-55bf-46e3-af12-5333de75528b"
+    },
+    {
+      "start_time": 485,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "like we're not really using them for anything. So."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "67a25b90-1e25-439b-82ba-142d42ba16e3"
+    },
+    {
+      "start_time": 488,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you don't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "4f938ffe-4602-4de4-8de5-b66482c84fd7"
+    },
+    {
+      "start_time": 489,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6067305d-cae2-4a6d-8100-50ca9f8ce7af"
+    },
+    {
+      "start_time": 489,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't wanna go through the entire process to see how they'll look and all that, just as a full test."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "6a2f1949-934e-4a87-a82a-0916186fd935"
+    },
+    {
+      "start_time": 495,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I I have. I did do that like the last watch party that we had, but we could. We could do it again. That's fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b96be516-43f0-4d21-b40c-800f0e834556"
+    },
+    {
+      "start_time": 502,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we could just start at the beginning again. I'm fine with that. And maybe we'll watch for"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "cbf7d946-fa5e-446a-996d-294b4a589c27"
+    },
+    {
+      "start_time": 507,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "25Â min or something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "fca7872e-91e0-4a95-ab17-714a92c68426"
+    },
+    {
+      "start_time": 509,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, sounds good. Yeah. I'll kind of make a opening, remarks document with some of these notes. And kind of figure out like a good flow for kind of opening things. Also, like"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e147993e-e4f1-4cec-aaa5-98315d244f90"
+    },
+    {
+      "start_time": 522,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "opening for questions like right before we got started, and then having a little bit of time at the end for people to like discuss afterwards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e2f84037-e9de-4053-abf5-c23ecf762fcf"
+    },
+    {
+      "start_time": 532,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So we would. We would probably have to budget like an hour and a half"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2e312791-0413-4c69-a190-4260c2bbbca7"
+    },
+    {
+      "start_time": 535,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for the whole thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5f444907-1a18-4f25-888e-954d7b78a1c1"
+    },
+    {
+      "start_time": 538,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and then the other thing is, we'll probably wanna"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0437ffd8-8da4-40f7-84fa-eab6cd95e722"
+    },
+    {
+      "start_time": 542,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we'll, want to record the whole event, right and so we may also want to make available the actual video of them watching. So that's the other thing we need to ask."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "552a33e4-137b-40c4-8473-f85ed9e34c3c"
+    },
+    {
+      "start_time": 551,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be fun, too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "4c7a6a01-b4c2-493f-a6e5-b6bf628c01c4"
+    },
+    {
+      "start_time": 552,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And then we can have a watch party watching."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d8e61eba-41b0-4d2d-b68a-b530a5fe4dc2"
+    },
+    {
+      "start_time": 554,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video of the watch party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "83c53a12-f7fc-41ae-a985-10d68d34eaf8"
+    },
+    {
+      "start_time": 558,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Someone will say that. Let someone else say that as a joke. So I do think last time everyone was really reticent in in watching and saying things. So please be verbose this time around. We really want to try to overload it with text and and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "26cd0ab5-fff0-49ce-ad53-5995d99597f7"
+    },
+    {
+      "start_time": 578,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "speech, I guess to see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "6a6882c6-fa8c-46bb-8a32-caef4ab8e5e4"
+    },
+    {
+      "start_time": 580,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have a good test. Right? So."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "343c5b15-f3a3-49ff-b5ac-b0199f6b2b0d"
+    },
+    {
+      "start_time": 581,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thing that I realized from the other test is that the emojis don't work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3589cefe-244e-42c4-98b0-ab44bab3d26b"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ca11fbf7-4bec-4efb-bb0e-e5cd93d534f3"
+    },
+    {
+      "start_time": 588,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reactions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "500f907b-94b7-4606-9b8c-7272210eed39"
+    },
+    {
+      "start_time": 590,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just because maybe annotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "17919b5a-1e46-45eb-9257-701213d4c605"
+    },
+    {
+      "start_time": 591,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah AV annotate doesn't know what it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3cb81b57-870e-4131-9190-b82ca83e17f8"
+    },
+    {
+      "start_time": 594,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feel compelled to use an emoji. You have to spell it out in capital letter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ebfd7db2-44e9-4d00-bef7-1861075c2f9d"
+    },
+    {
+      "start_time": 599,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smiley face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "46eb01ef-a84e-4a56-b2df-378abf01dc83"
+    },
+    {
+      "start_time": 600,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Exactly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0805faf7-9f6d-4283-90a3-846e2010165c"
+    },
+    {
+      "start_time": 603,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "5308637a-a5d0-4bee-bb1c-c8ea2e1b5db4"
+    },
+    {
+      "start_time": 606,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, anything else. Before we get started?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "645a58d7-bcf9-42b5-bffd-13a28d3cbb6e"
+    },
+    {
+      "start_time": 611,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do we want to present the order of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "57f4cbea-1b27-460b-9f99-2b1ff2de4334"
+    },
+    {
+      "start_time": 614,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "performers, or just let it unfold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "00b2e838-e831-4cae-8dae-be9524dfc375"
+    },
+    {
+      "start_time": 618,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm, I mean, all of these people like I did send them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9186b5f1-1c66-45ca-b3e5-7eb735419588"
+    },
+    {
+      "start_time": 622,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "like they verified the fact that they're fine with this video being out in the world. So I don't think it's gonna necessarily be a surprise to anyone. But if it is, I kind of think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e03f00bd-52a2-4784-97ae-62427e68188a"
+    },
+    {
+      "start_time": 633,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I mean, it's more like who's coming up first? st Who's coming up? Second, I think it's better not to. Let's say that we we're not going to tell you who's you know the order of the readers just to keep the suspense of when you appear, you know, alive, or whatever so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "fd5b44ac-a7ed-4509-861e-877bab50633f"
+    },
+    {
+      "start_time": 649,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "811ae1ff-2413-4fd2-b2fa-01d7175e382d"
+    },
+    {
+      "start_time": 652,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Let's go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "b4afe16b-e5b9-4881-8c3f-5c578ffb4488"
+    },
+    {
+      "start_time": 654,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b58daf57-8a7d-4a21-9e68-f78c1f2e9354"
+    },
+    {
+      "start_time": 662,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to pretend that I'm 1 of the performers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "c85e638e-a068-4464-9610-13f52f90f909"
+    },
+    {
+      "start_time": 668,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, I'm gonna start playing. Let me know if there's any sound video difficulties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5a154ab6-02db-40f3-9d4f-cdb601f0fbb1"
+    },
+    {
+      "start_time": 674,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ed2ac1fd-3bb0-454a-b896-b6168c051212"
+    },
+    {
+      "start_time": 683,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can everyone hear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "853bd15f-229b-4921-8058-601b5d05bb76"
+    },
+    {
+      "start_time": 684,
+      "end_time": 685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "229dbca1-dd8c-4cfd-8129-f42c0988e42a"
+    },
+    {
+      "start_time": 686,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. The final piece I'm going to read is my"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "757769f5-268b-404e-9b29-818f33aacf72"
+    },
+    {
+      "start_time": 690,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "my version of O. Canada. I figure it was appropriate. It was actually written"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a4acc108-0fd5-4e56-bce5-2f534c2df84b"
+    },
+    {
+      "start_time": 695,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "around 1980. But as I read it the other day I realized things come around and it's very contemporary again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bab3f442-79b9-4a50-91cf-8e7db7c6fd8d"
+    },
+    {
+      "start_time": 704,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, it's called O. Canada, Canada. We've given it all away. And now we're nothing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b6b9fa2d-3f87-4a19-ac80-319b70375842"
+    },
+    {
+      "start_time": 713,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada, 70 cents. Us. March 25, th 1995."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e5737f44-d65c-4567-afe6-60389e04e763"
+    },
+    {
+      "start_time": 720,
+      "end_time": 728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can't understand our own languages. Canada. When will we end this all dressed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d460f4bb-0e9d-47c5-9aca-286aa4b1ba83"
+    },
+    {
+      "start_time": 728,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't feel good. Canada. When will we be a mosaic? When will we take off our winter tires? When will we look at ourselves on Cbc."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2b4fe9af-3e65-43ca-a4b7-0751bfdef940"
+    },
+    {
+      "start_time": 739,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When will we be worthy of our native Canadians, Canada? Why are our libraries full of American bestsellers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "97b811e3-c36e-4c0c-97e0-5ccd1d5e23ea"
+    },
+    {
+      "start_time": 748,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada? When will we teach our Mps, like Sheila Feinstone poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "27fe504b-5f4b-409e-bcbb-f9547358655a"
+    },
+    {
+      "start_time": 756,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sick of our Royal Commissions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "29c1aefe-f4de-4bf5-9ae6-cb76040b6eeb"
+    },
+    {
+      "start_time": 758,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When can we go to any province and feel at home? Canada? After all, it's moi Etwaiki, son perfect"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0134d3a5-4eac-48bb-b532-9d6611a8360c"
+    },
+    {
+      "start_time": 766,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "or selling out is too much for me. Who wants to be a Canadian to be or not to be?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "fc87b251-1a56-4c64-a849-4f1f9e4bc0e6"
+    },
+    {
+      "start_time": 773,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There must be some other way to settle this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "80bc34b7-26df-42c7-a873-0e0974e8f583"
+    },
+    {
+      "start_time": 776,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Krezians in the States. I know he's on their payroll. Are you becoming a 51st state, or is this a free trade joke? I'm trying to come to consensus. I refuse to give up my Canadianism. Canada. Stop, Aret, I know, because you're 1st see Canada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "67ad4b8b-9a28-49b9-95d3-7c3088ae8b38"
+    },
+    {
+      "start_time": 790,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The acid snowflakes are falling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2ee5e927-fe79-483d-b28a-91f4fca82694"
+    },
+    {
+      "start_time": 793,
+      "end_time": 803,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I won't read the Globe and mill just Allopolis. Every day somebody goes on to become a Senator, Canada. I feel sentimental about Pierre Elliott Trudeau."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2ea0fae0-ac71-42de-b87b-8312d85f9721"
+    },
+    {
+      "start_time": 803,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know the words to our national anthem, Canada. I used to be an immigrant when I was a kid. Now I'm an allophone telephone saxophone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "02f52a63-6952-4279-894d-50341bf680d3"
+    },
+    {
+      "start_time": 812,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have bilingual visions and multicultural vibrations. I dance ethnic dances every chance I get. You should see me reading Canadian poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "23c07654-93e9-4e80-a687-d8b2f26280f0"
+    },
+    {
+      "start_time": 821,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm talking to myself again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "82fd0638-727d-447e-b00a-03711f742813"
+    },
+    {
+      "start_time": 823,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My friends think I'm perfectly crazy. My mind is made up for me. There's going to be a referendum"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "916dc901-bcf1-40e3-9ac8-39417083face"
+    },
+    {
+      "start_time": 830,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada. I still haven't told you what you did to La Plume de matinte after class."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "019aeb9e-a595-4327-9730-58a98b463afa"
+    },
+    {
+      "start_time": 835,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are we going to let our cultural life be run by ABC, Nbc. Cbs, Pbs, we're obsessed with ABC, Nbc. Cbs. Pbs. We watch them all day their Logos stare at us whenever we channel hop. We sit in our homes for days and watch as the stomach turns Arsenio whole. The price is wrong. The gross out here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "46ff82e2-2291-42ea-b194-ad05f422624f"
+    },
+    {
+      "start_time": 856,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hungry Americans like to eat out wants to make us into Ronald Mcputins wants to take the musical right out of our mounties, needs Canadian time and life wants our auto plans shut down, wants us to see the U.S.A. In our Japanese Chevrolet wants us to fill up at Uncle Sam's, where its Ll beans buy its factory outlets, smoke its camels, and drink its real thing 24Â HA day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "cc16a9a4-9c7d-4e4d-be4d-042592ac910b"
+    },
+    {
+      "start_time": 880,
+      "end_time": 886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're always selling us. The American dream. Canadians are serious about the American dream."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5c0729dd-5a72-497b-b47f-86dc127f3892"
+    },
+    {
+      "start_time": 886,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canadians are serious. Everybody's serious but me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "61730cc0-49b6-45d5-a3f1-63e6d18209c6"
+    },
+    {
+      "start_time": 890,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, Canada! How can I write my litany in your moods? It sell out mood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d1c08a22-27e7-4925-9db0-5e86e622fb30"
+    },
+    {
+      "start_time": 895,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada front page challenge must not die."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a647a07b-0c5b-4c68-87b9-0dfa015c9770"
+    },
+    {
+      "start_time": 899,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada. We are the Dion quintuplets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "74670c6d-f776-492d-811b-a05fbb072bbd"
+    },
+    {
+      "start_time": 903,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada. When I was 6 papa took me to the Forum, and the game was good and everyone was a Canadian fan. It was also Maggie Fiq. Baka Mitma"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2f7b071d-e04b-4f48-a02d-61cab1540654"
+    },
+    {
+      "start_time": 913,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jemi Souvien. I remember how good the team was in 76. Guilla Fleur was in bloom every year was a Stanley cup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2916bee7-d37f-4165-817a-ba1aea81362b"
+    },
+    {
+      "start_time": 922,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oka is rising up against us. We haven't got a lot of a chance. We better consider our national resources. Our national resources consist of 2 official languages, billions of debts, an uplifting clause, Ben. Johnson on steroids and millions on the dole."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c7a98240-3e8c-42eb-9a33-8007e14a9df3"
+    },
+    {
+      "start_time": 936,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say nothing of the too few rich who are gst us to death, whose money hides in tax shelters abroad in numbered accounts under lock and key, who are abolishing health care programs, the education she is next to go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6505042a-8904-4f6f-9b48-97b36b8557e9"
+    },
+    {
+      "start_time": 950,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hell, Canada. This is serious. Canada is this Uic on Newsworld. My ambition is to be Canadian, whatever that means."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d850ebe8-57e0-49bb-b5ca-62f6656723e0"
+    },
+    {
+      "start_time": 959,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canada, you don't really believe there's such a thing as free trade, like a free lunch. Come libre service and free ride. It's like free speech, Canada trade."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "80f95c8d-af70-4936-8cbd-012e827d2463"
+    },
+    {
+      "start_time": 969,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don't believe our official comments anymore. We're too farsighted. We have seen the future, and it is Canucks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a46ae5cd-0e27-4eab-8c83-ce4ed0c93d8c"
+    },
+    {
+      "start_time": 977,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O Canada! Sasifi, okay, let us go, you and I. Let us turn our backs on this. Let us put on our muklucks and our toques. Let us mount our skidos and ride proudly into the glowing Northern lights. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "520a4c1a-959c-406b-9416-e3a74181da65"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Goodness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2d94af9e-43a8-4a42-89c2-0bf39c3eb2dd"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the problem is, we get wasted in alleyways, strung out of oblivious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "8a368b14-724a-4af3-a24f-65b520d3a95a"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cranked up in stereo syringes, dangling from each exposed forearm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "396d2ce1-96b3-474d-9ab9-b6112556c633"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yukio Mishima spilled his guts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e10ef73e-c283-4e11-a859-5210c9be2561"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The difference is is not, and never was the conspiracy prescription cool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c5d1ed30-6169-418e-b049-9a44cda13c56"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "crack, and smack, and doctor's orders well, a conspiracy prescription 1 billion dollars 0 tolerance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6b85a1d2-7c84-4f79-9af2-fbc91b2e9d9b"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1 billion dollars, 0 tolerance of the ecstasy, magic and mind expansion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7b965bf7-c4a6-4a34-9235-e6b170b69c4c"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem that's not is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "022c1899-0045-43d9-babb-db442c4387eb"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "has been for some time gaping wounds in Asian, African, in everyone's soil, world bank receipts wadded in to staunch the life blood flow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c957ce40-1116-4230-a2bf-8744bdbcb3a1"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me try a different one. This one's not coming right off the tip of my tongue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d1b92c9b-095a-4736-a241-a94f50a79dbf"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those wheels, those wheels we spun right off the scale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "059f041b-e224-4c1e-86e6-d6ff32b6f216"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is nothing, nothing I love better, nothing in mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "fefc6cc7-5d6d-4039-b750-e27290414f19"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't remember"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e2967dbd-25b0-4820-b546-32754fdb30fd"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to prefer to you than the piece I had prepared. But I know he's not coming either."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ce9db68e-a4a2-4ec6-bca5-16a7ba8ea347"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drew nice to see you. You can see me too"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e4d5e5db-ff75-4abe-b8e9-c5d38637b60a"
+    },
+    {
+      "start_time": 1177,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, I think, rather than blather, I'm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ec6368c7-fb2e-456e-b039-44ad2bf39a5c"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "gracefully bow out of this event. Wait for a more prepared moment and pass you back to our host."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5923fff0-6c35-4783-b248-e3e5191787af"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bing, bing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "2cc095ff-7bc8-487f-a3f2-9250efee4ab1"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b0e0b919-d0cd-4b77-b3fe-442e85e08138"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem is, we get wasted in alleyways, cranked up in stereo, oblivious"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "fb337cca-05b6-4548-b25d-2e2b8d60bdc0"
+    },
+    {
+      "start_time": 1263,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "syringes dangling from each exposed forearm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6ba643c7-cfed-4ca5-9d6f-222a053f06ee"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yukio and Mishima spilled. His guns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1a03482b-d40b-4b74-8e5f-01eecb4d0c42"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The difference is is not, and never was the conspiracy prescription of crack and smack and doctor's orders 1 billion dollar 0 tolerance of ecstasy, magic and mind expansion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "68816ac4-364f-45a7-af25-604a26314999"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem that's not is has been for some time gaping wounds in Asian, African, in everyone's soil."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b85af29a-bbc8-4ba3-99b9-1ebff98181e4"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "World bankruptcies wadded in to staunch the lifeblood flow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "74af1355-bbf5-4a17-8ba0-92d062e44c03"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reparation not, never hasn't, ever couldn't, may not be forthcoming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1a123c53-b190-4557-870c-3e1c94ff351e"
+    },
+    {
+      "start_time": 1315,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tyrannies of past and future, over present represent life threatened beyond mend struggle, a heritage front and center."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d96d1de2-60eb-43d3-928d-38a8a15a9f17"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The matter of the problem is the stats. And what's the matter? The economy is sick, society doesn't exist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3cda1ea9-ead2-4840-961f-c252c5730b43"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liability is private or familial. Acts of individuals in the care of the state of necrotizing fascist. Itis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "696de1a0-ae24-40e8-94e8-b1bdece9c5be"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rhetoric is right hand, sleight of hand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9feb5f0f-2d67-43b7-8eb0-58571103564f"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taking what's given away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0e35f748-dc1f-4193-b7c6-7d77a8219887"
+    },
+    {
+      "start_time": 1360,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "4872e02f-0bd9-49c0-a92d-3ae2d207214d"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there can be no pause from the cause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b2bf9d90-8b16-417a-b519-07adfd7d9275"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With every heartbeat we're losing steam the ends around the bend. Every nanosecond speeds that wheels right off the scale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1c485407-2acb-4b55-a938-fcee96ec1399"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "winding up, winding down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f1c52c9b-b963-49eb-9721-a669f5148e3b"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seems to me. We're all coming and going. I can't call that shit apocalypse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1a75e00f-2fed-4b7b-9cf2-42799f7d9efe"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that televangelist type, and I believe Taoists, pagans, Marxists, and punks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bee0d4ff-ced6-4278-bd93-6710b59153e9"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a believer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "22362170-91f5-4307-a996-0129f89f4432"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's my natural state"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e3c5d62f-aca9-47d6-9854-0a9a62bdeea9"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that don't mean someone hands me a concept something I just can't resist. It don't mean an end of question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "aefbb3cd-a27d-4ab4-92b4-8e610c1a3d50"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Better believe a believer's chest chocked full of questions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "8c76ce56-73ae-4c95-9997-4fa2bc302ff6"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But these questions get at a unity, affirmation of infinite additions to a creed of the life imaginable, imaginable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "641da85c-2722-43de-b4c8-3c3d9d4d32b8"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desirable, conceived in the heart conceived in the mind, forward in all directions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e7ed2aa1-7b68-4009-8109-fb12c81bb975"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In short, you give a shit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "216a478b-8e56-4f26-a8ba-14e93c118aab"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You see, I believe we're all believers, and that implies using the eyes, teeth, and fingernails."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ca68feb1-c11a-4778-8ad1-446a1df34d86"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because we've always been believers"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e4a63904-ccca-445e-887a-c6470e221780"
+    },
+    {
+      "start_time": 1444,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from the Ice Age on, along. And if we were around before then, if we're already living somewhere out there in the future there's still this primordial, deathless jewel of a now that's beyond before, and right at the core of us all the way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1b7c8b1f-6a98-4038-9adb-168839adb565"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when a body gets jumping in the throes of an orgasm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9c95f824-e11a-4a10-849c-e0a99969f09d"
+    },
+    {
+      "start_time": 1469,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's where your spirit gets uptake of."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c64a6836-5536-4b99-9d40-0bfef263d7fd"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're simply in truth there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6c7e5c9b-6dae-4ca1-a4b6-507c372a6210"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she had wonders for all that simplicity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "24b69d88-de60-4d8b-8aca-4da5741b3d18"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Polish your diamond sutras, and perfect your genuflexions, but then get rubber wrapped and steamed for the big rendezvous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d452852a-4619-4467-9774-942dcde04901"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otto's suggestion at the moment of orgasm that's my idea of affirmative action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1b27b2c3-ecf6-4d86-9478-99f6ba044f46"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another love letter to the cosmos with every encounter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1dd19a1f-bb2f-486b-9ebe-33adce8eb89e"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "right on the brink of divinity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d20d6cc6-a007-406b-a423-c5f1c0634fab"
+    },
+    {
+      "start_time": 1506,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If anyone's ever listening in, it'll be what you're inspired"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "614f26b5-7bbd-4ea5-a8a1-750de20594f3"
+    },
+    {
+      "start_time": 1522,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "right now. You can win a 1985 Chevy s. 10 pickup"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1c60a7fc-1344-4181-aa5c-e86019d68559"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "before their eyes. Wyatt Andrew reports"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7f3dbfe8-10ba-41f2-9397-3d8b1238d5e5"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the assassins were cool. They're rude matter of fact, not offensual. Why are you here? Asked a news reporter? The answer. We're here to kill him. No one took the men seriously. After all, some 40 reporters and cameramen were witnesses, the target of all the attention, and the attack was 30 two-year-old Kazuo Nagano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "25a6a973-ae99-4c03-9b70-7b1122849896"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inclusive chairman of a gold speculation and investment company. Mcgow was the prime suspect in a fraud scheme that may have cost hundreds of investors hundreds of thousands of dollars. One of the killers, as he answered questions told reporters. 6 of the investors hired me to do this, he said. They don't want their money back. Then, after shoving their way past the reporters. The men kicked in a window."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f07af6b5-0da1-4571-ab70-d715c0976d9c"
+    },
+    {
+      "start_time": 1582,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "entered Madonna's apartment, and emerged a minute later, stained with blood, carrying a machete and announcing, We are the criminals, they said, call the police."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "098eaaf9-bbdb-4b99-88d4-68528c51f387"
+    },
+    {
+      "start_time": 1594,
+      "end_time": 1619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The outrage expressed in Japan tonight surrounds not just the behavior of the assassins, but of the news reporters who simply watched it all happen, one reporter explained. The men were too easygoing, too calm, to be believed as killers. The assassins who are now under arrest are suspected of having ties to extreme Japanese right-wing groups. Police are not saying yet if they believe the men's story about being"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7ba3a599-516d-47a7-9ab7-1ff6d9cd52df"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "by investors, the investigation of the murder is easy, a policeman said, but the investigation of the fraud scheme just got tougher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "fb94e7f3-f841-41bb-b0eb-1600b805334c"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Albanese barbershop, Anthony, and shut down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1cb787aa-20ca-449d-a94b-a9ee2bf6bd70"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I enjoy the party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9080c935-479b-4709-9927-58ef7bf1c591"
+    },
+    {
+      "start_time": 1657,
+      "end_time": 1676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but on the outside here and soap is sliced from its slide down your throat with a collar. The blade loops in his expert fingers quickly by the ears, tracing exactly the firm outline of distinguished blood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bf9aa9e1-d12c-4154-8b7e-0929bfd02bc7"
+    },
+    {
+      "start_time": 1677,
+      "end_time": 1683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He does not let flow. I love the answer the barber has for long hair, which is to end it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6fbae833-c51e-442f-bb3d-26ee490d3881"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "lines short. He cuts a fine poem in his shop, littered with ears, they brush from the floor. I figure he could kill me for my money if he did not love my business so"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "38322e47-c1d3-4aab-9e1e-3d6f153d967a"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "close down there been committed under the spurious diagnosis of fever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7d726e48-3b08-41a1-b44b-d18e009bc96f"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's always"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "26bfbc9b-4fd4-465f-aa44-803e3bde0d84"
+    },
+    {
+      "start_time": 1718,
+      "end_time": 1721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "one. Softness sets it going."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "16cbb7c4-7bed-4e87-96f7-323f5f0e3f8b"
+    },
+    {
+      "start_time": 1721,
+      "end_time": 1726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The CD turns like glass asylum in a second pass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a7b7f39e-0662-4562-864c-8a6766b6c03a"
+    },
+    {
+      "start_time": 1727,
+      "end_time": 1733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music is curious, like remembering why love once held fast that face"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "821d9752-4d5a-4c05-9a3e-eef6b9430ef9"
+    },
+    {
+      "start_time": 1734,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when it happens out of the swirl of the disk environment case."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a4bc1816-a09b-4c65-a641-f806ee359a3e"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this century erupts and is gone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "60702d0b-a978-4764-ac66-b4a5491b65c9"
+    },
+    {
+      "start_time": 1744,
+      "end_time": 1746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only after you drifted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9cd66fac-b00f-4d70-9071-f4a825eb5b6c"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's every glance, cities, European and other, thrown across a space like one single lost stone letter, breakage, courtyard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f340302d-e244-48bb-b57c-999f819530a0"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another faxing day, and I have slipped too many images to the other side of space to arrive. Tokyo time on your desk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "62fc7de3-a017-4cc5-a3e6-ab5212b315db"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This thin rendezvous of ours is a constant ease to imagine the strain of an inverted picture that slides across fibrous lines, disappearing to appear. You hear the ring in your head office run to the bin. The stick pages scoop at, bend softly down, obscuring there my number. The grainy heat sent messages"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bbee04bf-4ed1-49bc-8584-3c5f22845ebd"
+    },
+    {
+      "start_time": 1812,
+      "end_time": 1821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "repeat, I love you longer than telephones stretch the greatest raw distance gone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "4f1f2d2b-25bd-48fd-8e12-9b23e02ce493"
+    },
+    {
+      "start_time": 1878,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well when the sun's gone down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d7a31404-8c97-4fa1-985a-e0ea6ff88c03"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 1889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "55d35197-d156-4431-95fd-279b5205a828"
+    },
+    {
+      "start_time": 1891,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rime Valley town, and and crooked men, young, do skulls"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "39a0f8fc-75a2-4a4c-901d-2eb9163c4110"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, the moon rise high like a like a sickle in the sky, and it's gone slitch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "babbbf4d-5547-45ef-9efb-e6a3f9df4849"
+    },
+    {
+      "start_time": 1908,
+      "end_time": 1916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and the pretty painted lace on the face of the pretty Painted Lady, and the face is gone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3db2a46f-f60c-4770-81d4-81f90a53c431"
+    },
+    {
+      "start_time": 1916,
+      "end_time": 1919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and left for good to live out on the coast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f45dd2c1-77ac-4990-b616-f68074662e94"
+    },
+    {
+      "start_time": 1920,
+      "end_time": 1933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pretty painted face has left Berlin to live out on the coast, and you know what she gives to Amsterdam man. Well, she dig it the most, and my life is sweet on me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c8aa4dea-624d-4d89-a225-b868b312d554"
+    },
+    {
+      "start_time": 1934,
+      "end_time": 1945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One. My life is sweet on me. 2. My life is 3 sweet on me. One. And when the lake boils in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0e064b68-acb1-4740-978d-3334c0d41e5a"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2, 5, 3, 6, and the druggies in the park, 2, 4, 8, 1, 2, 3, 4, 9, 7, 8, 1910, 1111, 12,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c4da0caa-7fd7-4d11-a9a2-83ae491df3d0"
+    },
+    {
+      "start_time": 1960,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1, 2, 3, 4, 5, 4, 5, 7, 8, 9, 1011, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 1011, 12, 1, 3, 4, 5, 6, 7, 8, 9, 1011, 12. Everybody with an odd number gets a free beer. I'm your only friend. I'm not your only friend, but I'm your little glowing friend. But really I'm not actually your friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "614b9223-aa6a-4a21-982e-ad9503d64609"
+    },
+    {
+      "start_time": 1988,
+      "end_time": 2008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I am. Yeah. I was working part-time. It was 5 and 9. And your boss was Mr. Mead. Yeah. Yeah. And he told me several times that he didn't like my car. I was a bit too leisure with these figures, and it seems I was busy doing something. It was close to nothing, but it was different than the day before, and that's when I saw"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "4749cb4e-2331-4820-88bc-b6752f896857"
+    },
+    {
+      "start_time": 2009,
+      "end_time": 2034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when I saw her she walked in through the outdoor, the outdoor, the outdoor water. I don't drink milk because my parents are old. I don't drink milk because they tell me to. I don't drink milk because it's delicious. I don't drink milk because it's nutritious. I drink milk"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "31a76803-9074-424e-8224-9bd322b22ff7"
+    },
+    {
+      "start_time": 2034,
+      "end_time": 2040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because it tastes great. So tell me again about the hashtags."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b0970b20-1aa1-4705-af6c-cefabcee9b16"
+    },
+    {
+      "start_time": 2040,
+      "end_time": 2059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I mean, hash is legal there, right? Yeah, it's legal. It's legal. It ain't 100% legal. I mean, you can't just walk into a restaurant and roll a joint and start fucking away. I mean, they want you to smoke in your home or certain designated places. And that's where the hash parts come in. Yeah, it breaks down like this. It's legal to own it, and it's legal to buy it. If you're the proprietor of a hash bar, it's legal to sell it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5f4a83e2-ccd8-4784-ab51-81e92eb9bb5a"
+    },
+    {
+      "start_time": 2060,
+      "end_time": 2075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's illegal to carry it. Well, that don't matter. Good Lord! Let's see if you're walking down the street and have a damn cops stop to you. It's illegal for them to serve me. That's 1 of them cops actually don't have, man, that's all there is to it. I'm fucking. Going."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "181bb78c-c0d2-44b3-90f4-129391d52621"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e10b950a-200a-4c91-89c5-e6ec1aa20c39"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "buck."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "75ffdc77-1acc-4b94-84cd-66b7cbce2080"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But listen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "071c1aec-65fa-4478-8946-4bdac528c6b1"
+    },
+    {
+      "start_time": 2105,
+      "end_time": 2106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "wait!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "90d1d1f5-b9f8-46af-b966-893bcebf9815"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've seen it 3 times. I like your work. I like your story. I've seen your work. I've got palm on my stomach. Does that mean I'm broke? I've seen your work, and I've never raced. You seem so, young man, I know I know that was such a long time ago. Stopped."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3d502b3e-cee2-4a0a-96fb-c1369c056072"
+    },
+    {
+      "start_time": 2150,
+      "end_time": 2162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't start quit while you're ahead. Hot. It glistens sebaceous and slick hot. It glistens spacious and slicky"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0c9ed22e-82e1-4384-99e8-38b31fb380e9"
+    },
+    {
+      "start_time": 2163,
+      "end_time": 2167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hot, it gloosens, sebaceous and silky."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "54252b32-c6bb-4775-b696-c75f9e60ea62"
+    },
+    {
+      "start_time": 2167,
+      "end_time": 2171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hot. It glistens sebaceous and slick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5eaf1277-5c35-4f16-b6c9-e9b7a985298f"
+    },
+    {
+      "start_time": 2193,
+      "end_time": 2194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "44334925-e1a1-444f-900f-c638775dfff4"
+    },
+    {
+      "start_time": 2204,
+      "end_time": 2206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know. Guess a song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "1d555834-161b-4adf-a737-d820386fc9ff"
+    },
+    {
+      "start_time": 2206,
+      "end_time": 2217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, you say so! Oh, de la Planchet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "18a3e7ce-836a-4400-a738-d6e6f0a1f6e3"
+    },
+    {
+      "start_time": 2218,
+      "end_time": 2241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Tom bi to la tables la vi no latifa de grotes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "31b88724-c3f2-4000-8bb6-21659ad61335"
+    },
+    {
+      "start_time": 2244,
+      "end_time": 2273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I reoccupation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "608fda41-4e65-48ea-a4d8-01242899d5b5"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lacione, let me know while he likes you. Let me know la be new"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e3c88d7c-6abb-46f3-a284-53c689be5232"
+    },
+    {
+      "start_time": 2303,
+      "end_time": 2306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and some Lego de Boise model."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d3f48617-33c1-4db9-bd19-c914e4a076a3"
+    },
+    {
+      "start_time": 2308,
+      "end_time": 2308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "93464694-f896-4034-8d9b-6b0b52c4322c"
+    },
+    {
+      "start_time": 2327,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "joy joy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6a2b5e2a-1af2-4579-92f7-98361f5ffab6"
+    },
+    {
+      "start_time": 2361,
+      "end_time": 2391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So 2420!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c7f455de-5ab0-4e90-9eb5-c454bb2d9ca5"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, hi!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a2c281c2-ed75-482e-99db-843c95648d62"
+    },
+    {
+      "start_time": 2401,
+      "end_time": 2403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Victoria Scott!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0110d2f2-31b8-4945-8fbb-c7a3e53ea4fd"
+    },
+    {
+      "start_time": 2403,
+      "end_time": 2404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "09db36db-3cc7-406f-b9c8-5337ae2ab51f"
+    },
+    {
+      "start_time": 2404,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm just."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5fc427f9-77c2-4081-a908-5b59754a283e"
+    },
+    {
+      "start_time": 2418,
+      "end_time": 2422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resistance is reasonable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "25d18cbd-773f-4070-af79-caf3971587b9"
+    },
+    {
+      "start_time": 2423,
+      "end_time": 2444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Expected, directed, inspected, and most appreciated resistance is reasonable existence, reasonable resistance, reason, so resistance, reasonable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "40133579-0c20-4a06-8113-7652d7a4fd8b"
+    },
+    {
+      "start_time": 2444,
+      "end_time": 2448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smash the windows, take the clothes, resistance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "29add17d-5dd3-408d-9f1a-db425ed5ea38"
+    },
+    {
+      "start_time": 2449,
+      "end_time": 2457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't deny me the right to my fashion. Freedom, my chosen design, my style and season is this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "d4d044a2-1b5c-4d51-aae3-97b5575eb6e1"
+    },
+    {
+      "start_time": 2459,
+      "end_time": 2486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "smash the windows, take the clothes, you see the strangers giving you the once over shaking heads in disapproval, or rubbing your shoulder. Smash the windows, take the clothes, don't we have a reputation for jumping the gun? We're in winter in the summer weather in the sun. Smash the windows, take the clothes, don't mess with me with your garden hose. Don't impress me with your impetuous pros. Smash the windows, take the clothes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ea6ccf98-0834-46a9-beac-76c722f0ef61"
+    },
+    {
+      "start_time": 2489,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to you, smash the windows and take the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "06f114f6-eca6-4cad-960d-e3eea71a1b3b"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "smash the windows, take the clothes, smash the windows, take the clothes, take the clothes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f3060abd-52eb-41f9-8c43-2913c0413a3a"
+    },
+    {
+      "start_time": 2505,
+      "end_time": 2515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think about the storefronts as much as I do because of fashion. Stead starts"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "96e57c45-b437-4ff3-998b-51bfb026e3be"
+    },
+    {
+      "start_time": 2515,
+      "end_time": 2528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "with the word of the man. Hungry face asking had socially decorating slightly expensive zip log, sealed in glass and gold tableau, with hungry face, asking hand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c5b18897-3665-4497-a713-1bb93eaeef0a"
+    },
+    {
+      "start_time": 2528,
+      "end_time": 2538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their fashion is state of the street, Smartwear, I mean state of the Art streetwear, I mean. Come on, you'll wear what you got. That's not a lot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "63cf0ef5-858f-4008-bb86-f7d13ebe7977"
+    },
+    {
+      "start_time": 2539,
+      "end_time": 2541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to ask for so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "5ae2750d-7eef-4de0-94c6-3024731b25c4"
+    },
+    {
+      "start_time": 2541,
+      "end_time": 2564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and cut a purse, a unified purse in the district of the fashion plate, the holy business of the envy, industry, and rental plate that subconsciously oozes excess purports to evoke a city's envy, and screams to be smashed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "79d9ea3d-a99b-4285-baef-b827639294ec"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "smash the windows, take the clothes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bd3a7c78-8c32-466b-9b8f-9466390fa147"
+    },
+    {
+      "start_time": 2569,
+      "end_time": 2590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "selling cheap at an auction on the strip. We'll strip the stores bare so fair. We'll truly be the best dressed population this side of the nation, though I know I know I know it's not an ideal solution. If we're talking revolution, at least it's a start."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "22b6a20d-bf04-425d-8b22-a12e37dd82a4"
+    },
+    {
+      "start_time": 2593,
+      "end_time": 2609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smash the windows. If we're only going for 2 more minutes. I want to see how the if people were to talk, how the reasonable resistance. Can you guys hear me reasonable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7d92d2d4-768e-4f8e-9113-e06446efa7d3"
+    },
+    {
+      "start_time": 2609,
+      "end_time": 2612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I can hear you. And that's a good idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "92143b9f-81b4-4b34-b10d-fbac6905d89a"
+    },
+    {
+      "start_time": 2612,
+      "end_time": 2613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, this is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "14afdd3e-eee1-4887-8091-78dea8d1a78f"
+    },
+    {
+      "start_time": 2619,
+      "end_time": 2634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sounds good. Yeah. I wasn't sure if either the video is gonna cut out, the vocal audio or the vocals were gonna cut out the video audio, but happening like simultaneously over top of each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ff89b335-e838-493d-a8f3-c91b224b288a"
+    },
+    {
+      "start_time": 2634,
+      "end_time": 2643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is, is, is, is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0d885356-7c60-4295-b453-3867d463ec79"
+    },
+    {
+      "start_time": 2643,
+      "end_time": 2648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I can definitely hear you much less clearly than the video. But."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "38426915-f421-424a-a877-c289a5514606"
+    },
+    {
+      "start_time": 2648,
+      "end_time": 2650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d5f68dac-eea2-4999-807c-8b90c4e21185"
+    },
+    {
+      "start_time": 2659,
+      "end_time": 2662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "wow, who can have a lot of speech here? Everyone talk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "89254d61-1b18-4e59-a45e-9642f7d215d6"
+    },
+    {
+      "start_time": 2663,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Going around is one thing we need to do. It's unfortunate that Porter Anderson isn't going to be there because his performance is absolutely fantastic. I think it's 1 of my favorites in the you see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f97c4318-4601-44c6-ae55-c85c907ddd05"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and woman have it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "2c33c547-ede8-4cad-819f-f579d7402d26"
+    },
+    {
+      "start_time": 2675,
+      "end_time": 2684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some tools to spread it. Children could definitely do without it being a scene that I've and will die from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ben hynes"
+        }
+      ],
+      "uuid": "22345f57-282c-43f6-b244-d9692137a54a"
+    },
+    {
+      "start_time": 2684,
+      "end_time": 2705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Church lady said she don't want to have nothing to do with it. Preaching that it's ungodly people doing like such weird stuff with society like the same level of experimentation and kind of like performance, while ignorance is spreading it, I will do what is necessary not to catch it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "35ee995e-f764-4392-8594-133273b2aa70"
+    },
+    {
+      "start_time": 2706,
+      "end_time": 2707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "while continuing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "252c5487-6694-4c39-b43f-35221d9f2437"
+    },
+    {
+      "start_time": 2707,
+      "end_time": 2714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And a lot of them were in creative writing. Actually, do you know what it is they weren't seeking to?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "f9824934-7df9-485c-b4ca-b6231d896104"
+    },
+    {
+      "start_time": 2714,
+      "end_time": 2715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was booked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "801fb7e6-31df-4039-9be7-08db56ba89de"
+    },
+    {
+      "start_time": 2716,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were writing to other venues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "829f2355-7bba-49cf-a68a-fcd7ca334192"
+    },
+    {
+      "start_time": 2723,
+      "end_time": 2726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your participation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "1e31d5be-c650-4f7f-8582-e3761b645d88"
+    },
+    {
+      "start_time": 2727,
+      "end_time": 2735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just want you to keep. Yeah, like, cassette tapes were a lot more common. Something like this back then, obviously"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3fee5b4d-ffef-47d8-8f86-202797ee0419"
+    },
+    {
+      "start_time": 2735,
+      "end_time": 2736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "totally not. Now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "82495246-79de-4e14-b5b7-9c2f037cebac"
+    },
+    {
+      "start_time": 2737,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say, what a hell! What a hell! They said! What a situation! How life attack the poor at English! And what a hell! What a hell! What a situation, some willing to sell them reputation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "6e4b120a-7b45-4a20-900e-3db8240584b8"
+    },
+    {
+      "start_time": 2751,
+      "end_time": 2769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, for promotion and prestige, some willing to cease and fear not if the Muse underhanded me. Say, what a hell! What a hell! What a condition! No new plans fear, alleviation! What a hell! What a hell! Mental starvation going about new arbitration"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "8cd37c4a-d61a-4a80-be4f-b47bb6415b62"
+    },
+    {
+      "start_time": 2770,
+      "end_time": 2776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when the disease called pores, I can't take it no more. So then totally flip out, and I take handle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "785f9852-4fd5-4f49-ba0b-2673e6e0b7c1"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in addition, democratic society, somaliva for charity, bollyado de priority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c726664d-8538-4586-9637-0ffcfd021d58"
+    },
+    {
+      "start_time": 2785,
+      "end_time": 2801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "then Pm. Is humanity. So what a hell! What a hell! What a situation going about you are betrays! And what a hell! What a hell fitting the situation we have to come up with your creation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "74ee2127-9f1c-49cc-9955-2e99200f22c6"
+    },
+    {
+      "start_time": 2802,
+      "end_time": 2819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you? What the hell missing? What a situation! No new plans, the alleviation! What the hell! What the hell! If we change the situation, we have to come up with newer creation. We often come up with newer creation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "7aa7dd6b-b70b-482e-8519-a8582b477ad6"
+    },
+    {
+      "start_time": 2830,
+      "end_time": 2833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You like that one all right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "c5dd5a3d-ff99-4200-9d3b-230c5494bb39"
+    },
+    {
+      "start_time": 2833,
+      "end_time": 2841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can never perform without giving respect to women regardless of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a1a4d00b-2c84-47c3-8178-a5e340fcc121"
+    },
+    {
+      "start_time": 2841,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "their background. So this one is definitely dedicated to all the women here tonight, and the guys, next time I'll do something special for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "3a0b9a46-5239-4503-a25e-932b051263c5"
+    },
+    {
+      "start_time": 2851,
+      "end_time": 2855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now this is written in Jamaican dialect, but I'll try and keep it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "af460cf4-162d-487c-b9d9-a0b8f9713b12"
+    },
+    {
+      "start_time": 2855,
+      "end_time": 2861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "simply enough, so you can understand. Did you reach out to Dee Smith? Jason, woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9b5cb091-8702-4b05-a31e-40c39237168e"
+    },
+    {
+      "start_time": 2861,
+      "end_time": 2868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you alone missing through ageless time? Get the fine, confine outline till you find yourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "da71eebe-0426-41fa-8f72-6a5347c678f5"
+    },
+    {
+      "start_time": 2868,
+      "end_time": 2873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entangled in a Yeah, I have her email. I can send it to you. It's a woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "41f9ac86-389e-4881-85a6-c1fb28211136"
+    },
+    {
+      "start_time": 2873,
+      "end_time": 2883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah, are you alone? Miss it through ageless time? Postpone your planning foundation, and if you let out scream."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7d082767-008b-466f-9f1d-bfdb609ab2a3"
+    },
+    {
+      "start_time": 2883,
+      "end_time": 2889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it should be in there. I'll double check that. I did indeed push one by."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "072db775-c2a3-4441-96fc-4897728dff83"
+    },
+    {
+      "start_time": 2889,
+      "end_time": 2891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I emailed her woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "8bd5d233-4494-4255-a5c3-4b500f23f75e"
+    },
+    {
+      "start_time": 2891,
+      "end_time": 2899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Are you alone? Me see through ageless time. Get accused, use and double check till you become."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "15bea38c-774f-4fea-a479-ea3331e20f2f"
+    },
+    {
+      "start_time": 2899,
+      "end_time": 2903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Confused as to how you then misuse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "9bb64abb-23e1-4a99-9a7b-06a34adcfa1a"
+    },
+    {
+      "start_time": 2903,
+      "end_time": 2907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But say no, mine. Just hold tight your great panel of a fight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "3516c003-9d3c-430b-a68e-b9ce2bb40c6f"
+    },
+    {
+      "start_time": 2908,
+      "end_time": 2919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "woman! Why is it that is, you alone, me say, through ageless time, them deceive you with lives, criminalize emotions, and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d2f03f69-d1fc-433e-a66c-63178ab15782"
+    },
+    {
+      "start_time": 2919,
+      "end_time": 2921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "your devotions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "61cbbaf7-8b33-4c0f-96ba-558eb69ae425"
+    },
+    {
+      "start_time": 2921,
+      "end_time": 2937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman, are you alone? Miss it through ageless time? Walk all year, both night and day, and at yard. No peace of mind to find your lover, man. Say baby, Miss sorry, but no honey, and no money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "35261e8a-084c-46f7-b89a-a43e22552a5c"
+    },
+    {
+      "start_time": 2938,
+      "end_time": 2941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and you have 4 picnics of feed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "20c21b9c-27a8-4358-ab5f-ee3b60e227c7"
+    },
+    {
+      "start_time": 2941,
+      "end_time": 2947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bowman. Are you alone, missy? Through age, Miss Time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "585f11b0-e06d-4264-a6da-16ead865e5c2"
+    },
+    {
+      "start_time": 2947,
+      "end_time": 2949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Get for beer to pee and manage the stream."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "f9dc34d7-5876-4c68-879a-3271bc8dade0"
+    },
+    {
+      "start_time": 2949,
+      "end_time": 2953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Till it sometimes seemed totally insane."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "f38e8c03-9ece-4454-8247-69535810568e"
+    },
+    {
+      "start_time": 2954,
+      "end_time": 2972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman, woman! Oh, my black woman, are you alone? Miss it through ageless time? Write down his story in our mind, boldly facing the reality and still being the backbone of our society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "0c6e41d3-fa9c-45a3-914a-97eef667c844"
+    },
+    {
+      "start_time": 2973,
+      "end_time": 2974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "da0d14bb-ebfe-476c-b188-c57e33dafe40"
+    },
+    {
+      "start_time": 2977,
+      "end_time": 2979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool. Yeah, maybe we should wrap it up. Who's next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "473284e5-d76c-410c-9f60-ad19229c48c0"
+    },
+    {
+      "start_time": 2981,
+      "end_time": 2983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Norman Iraqi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "a1e56949-62a4-4c75-9917-ed0caf17382d"
+    },
+    {
+      "start_time": 2983,
+      "end_time": 2986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, yeah, let's stop there. That was good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "0a973549-8b2e-48c0-baf0-1f910a437f97"
+    },
+    {
+      "start_time": 2986,
+      "end_time": 2991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The transitions look great guys. I mean, I think it's excellent. Worked really? Well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "a6f17982-f52d-46bf-a7f8-9f5d99633230"
+    },
+    {
+      "start_time": 2992,
+      "end_time": 2993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "742a29a7-10ec-4e99-b44d-9ffb4b8a6f3f"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 3002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "how easy will it be? Tj, to correct the Swifty Lazarus thing? Is that a big deal, or it's not too too tough."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d26a837e-7515-46f7-973b-c657442eac0f"
+    },
+    {
+      "start_time": 3002,
+      "end_time": 3004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that's easy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "eed870bd-b202-4895-89ca-3407af8c0ff1"
+    },
+    {
+      "start_time": 3004,
+      "end_time": 3005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e54eaf2d-2e69-455f-a1c7-a9b9651b3ec5"
+    },
+    {
+      "start_time": 3005,
+      "end_time": 3008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it only takes some time to render, but easy to fix."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "c0501fe4-ed6d-4816-96ca-f3ed60b71f41"
+    },
+    {
+      "start_time": 3008,
+      "end_time": 3014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. So once you're in there doing that, I would maybe extend the the name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e4a22322-88dc-4d60-845a-fd547bb29d40"
+    },
+    {
+      "start_time": 3017,
+      "end_time": 3018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For each performer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "85ee8b88-75a3-4660-97ff-3c0901366d29"
+    },
+    {
+      "start_time": 3019,
+      "end_time": 3020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like just having the banners on longer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "e0e75844-8626-4323-b44c-ce37959e3dfa"
+    },
+    {
+      "start_time": 3020,
+      "end_time": 3024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Have the banners on, like maybe an additional 3 to 5 seconds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7063d0ae-a6d6-413f-b739-a87c0489866f"
+    },
+    {
+      "start_time": 3025,
+      "end_time": 3030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "just in case not everyone remembers everyone's name at least, though you know that way they can"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ec002ade-aae9-499a-85be-fbcac809f57d"
+    },
+    {
+      "start_time": 3030,
+      "end_time": 3034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cause I I mean, I looked up occasionally, and then they were gone. And then, like, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "2da9ab5d-724e-4899-a6c0-aed128ec8f93"
+    },
+    {
+      "start_time": 3036,
+      "end_time": 3037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, can do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "6070f8b5-4b8a-4e74-a2ed-77b6c123c6a9"
+    },
+    {
+      "start_time": 3037,
+      "end_time": 3038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "8fc17a04-9ff4-4be3-a491-be2a30249edb"
+    },
+    {
+      "start_time": 3038,
+      "end_time": 3046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And and then, maybe for the very beginning. Like jade, was saying, put the venue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "af480ff3-f4f7-4237-8467-ce6ea49b7eed"
+    },
+    {
+      "start_time": 3046,
+      "end_time": 3051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and the date. What was the date? Do we know? I mean, I'm sure we know. But."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d1a9236b-8abc-4cd8-9c38-f694877f6a93"
+    },
+    {
+      "start_time": 3052,
+      "end_time": 3061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I put March 25, th 1995, in the beginning of the video, because that looked like what the video was titled."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "4e12c94c-0738-48d3-847d-fd7abcd22722"
+    },
+    {
+      "start_time": 3061,
+      "end_time": 3063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so that's the date."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d7910ed4-9aee-4e57-a324-cea2f15245bd"
+    },
+    {
+      "start_time": 3063,
+      "end_time": 3074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so maybe we could leave that on there a little bit longer as well if it kind of went unnoticed, and I'll send you the address to building Dons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9a89df48-25b0-4a51-b071-be71e84ed61e"
+    },
+    {
+      "start_time": 3075,
+      "end_time": 3079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For you guys 7 months, 7 months before the referendum. A crazy referendum. That's that's amazing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "1e79d995-8f7b-4066-8408-bccf299710f2"
+    },
+    {
+      "start_time": 3080,
+      "end_time": 3083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it's a really cool time in Montreal. Crazy time in Montreal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "393e81b6-4485-44f5-abef-32ff89342aff"
+    },
+    {
+      "start_time": 3086,
+      "end_time": 3087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e65a4a66-daf0-4f61-bd62-9b1645619340"
+    },
+    {
+      "start_time": 3087,
+      "end_time": 3090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Any other, any other thoughts, generally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "27890419-6f8d-4743-8ef2-d514d3ff96aa"
+    },
+    {
+      "start_time": 3092,
+      "end_time": 3101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love this video. It's so nice like it's it has so much character of the time. And you know, both in the medium, and then in you know what's captured on it. So it's really"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "d94c99ca-9a43-46fe-ba0b-c510a705834b"
+    },
+    {
+      "start_time": 3102,
+      "end_time": 3103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people will find it interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "f4d3facf-11e2-485b-93b6-4a62537c216c"
+    },
+    {
+      "start_time": 3104,
+      "end_time": 3107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, definitely. And it doesn't feel like a slog like going through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "134611d9-15b3-482b-8281-68595ec40733"
+    },
+    {
+      "start_time": 3108,
+      "end_time": 3119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sure you know the full 2Â h video. It can be a great video, but if it's too long, it's gonna kind of like lose its luster a little bit. So it was a really good idea to kind of? Do the do the compilation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "edd7a102-fead-4d03-907d-3e5eb327b2f2"
+    },
+    {
+      "start_time": 3119,
+      "end_time": 3129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thought I had for the watch party is, you know, when it turns to the audience. And you really see a lot of people pretty clearly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "42039d6b-4b41-4a02-bfb8-be961a6d210d"
+    },
+    {
+      "start_time": 3129,
+      "end_time": 3136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It might be cool to do a a still of that and linger on it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "fbaf14ff-ff49-4e28-9772-675da410fe04"
+    },
+    {
+      "start_time": 3138,
+      "end_time": 3155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a little bit longer, or to bring it up afterwards, or something like that, just the still and talk about it to say like, who's there like? Because I think there'll be a lot of information just by looking at who is in the audience from those who are participating, because it's everyone's friends, and some they're all. They're all writers themselves, and stuff. So."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "7df7be87-f026-4fa4-9913-f65698f724ae"
+    },
+    {
+      "start_time": 3155,
+      "end_time": 3156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c8e2ca97-d580-486a-a5e2-e9fef0fd8f9f"
+    },
+    {
+      "start_time": 3157,
+      "end_time": 3158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, maybe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "6391c106-13ac-4f4f-aec7-ec645800f3c9"
+    },
+    {
+      "start_time": 3158,
+      "end_time": 3161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like pause it. It's like, essentially."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "9ed259f1-0726-484a-9d43-fe391d55e910"
+    },
+    {
+      "start_time": 3161,
+      "end_time": 3168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it might be easier just to take a still from the video like, so pause it like, and take a couple of try to get a good"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "8225a7f6-21db-446c-99bb-0b8636a6258a"
+    },
+    {
+      "start_time": 3168,
+      "end_time": 3177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "good shot. That includes the most people as possible. And then, after we all watch the video together, we have that handy to bring up and just talk about."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e66fd82e-fb55-41cd-bd24-4dc4fdd83bfa"
+    },
+    {
+      "start_time": 3177,
+      "end_time": 3179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, yeah. I see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "c9b2319d-f1d9-4b7c-8715-656b44fabc63"
+    },
+    {
+      "start_time": 3194,
+      "end_time": 3195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "awesome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "883eff27-7847-4d8c-b399-4a9c393e389c"
+    },
+    {
+      "start_time": 3196,
+      "end_time": 3197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Awesome is right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "c387a90e-de8d-4cdb-a3c6-2b289f6e3fd1"
+    },
+    {
+      "start_time": 3198,
+      "end_time": 3207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So can you resend me the email with everyone's emails because I can't seem to find it and that way I'll be able to give you a full"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "b016c525-b370-4601-b56a-c858aa46c49c"
+    },
+    {
+      "start_time": 3207,
+      "end_time": 3213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "list of who actually replied, and is coming. It's going to be on the 8, th which is the Thursday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ba02f9db-abab-405b-aae0-8cfa9b6ba59c"
+    },
+    {
+      "start_time": 3213,
+      "end_time": 3229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and and then I'll send an email. I'll probably include everyone again saying, like, thanks for everyone who's coming. For those who haven't replied yet, you're still welcome. It's gonna take. And then we I told them we'd send them some instructions or like some context again. So we'll just do that. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ac97b034-fc42-4d4e-be15-2b82f4f4eca5"
+    },
+    {
+      "start_time": 3230,
+      "end_time": 3234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, yeah, I can kind of like, prepare that in the next couple of days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "27af7054-7009-4729-8d76-e68ce57397e1"
+    },
+    {
+      "start_time": 3235,
+      "end_time": 3236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "bf5291cf-c5b8-4848-97aa-1b98d55f5cf0"
+    },
+    {
+      "start_time": 3236,
+      "end_time": 3245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you just send me the the email you had sent me previously just where you had listed all the emails, I'll send that email out like today or tomorrow. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "915c5a09-0612-4acb-8caa-24d78cb15a53"
+    },
+    {
+      "start_time": 3245,
+      "end_time": 3247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "okay, see on it. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "838ea9a5-c805-41a7-9414-aa98b1332af8"
+    },
+    {
+      "start_time": 3247,
+      "end_time": 3249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sending it to you right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "ae9d37aa-7077-49f0-8dd3-1095f726223c"
+    },
+    {
+      "start_time": 3249,
+      "end_time": 3254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perfect. Okay, I'll see you guys, I guess, at the team meeting in a few minutes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "4c9095bc-f517-4c68-be98-080d4a0ce561"
+    },
+    {
+      "start_time": 3254,
+      "end_time": 3254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "76dddc6b-140b-4a7e-9373-aedae3bd1d66"
+    },
+    {
+      "start_time": 3254,
+      "end_time": 3257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Run downstairs. I have to get something, and then I'll be back. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "be078b36-0e76-4a0b-9da1-7f02a9546202"
+    },
+    {
+      "start_time": 3257,
+      "end_time": 3258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Turn to swift."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ben hynes"
+        }
+      ],
+      "uuid": "c4606e58-2ab4-4f30-b197-d5b06978acb5"
+    },
+    {
+      "start_time": 3258,
+      "end_time": 3259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll be a few minutes late."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "42fe6ee9-15d1-4240-91d2-ab6a00b54d85"
+    },
+    {
+      "start_time": 3261,
+      "end_time": 3262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See you guys in a bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade P"
+        }
+      ],
+      "uuid": "b18f3a14-712a-4de6-a4d5-92b383d02882"
+    },
+    {
+      "start_time": 3262,
+      "end_time": 3269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See you soon. And Tj, are you coming to the lab like, did you want to talk about your game design, Doc? After our meeting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "5369940f-2da6-40cd-aa98-6eaddd93a1c5"
+    },
+    {
+      "start_time": 3270,
+      "end_time": 3272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm coming to the lab. And yeah, we can talk about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "c128b6e6-d678-46bf-988c-665d5c037b11"
+    },
+    {
+      "start_time": 3272,
+      "end_time": 3274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, cool. See you after bye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "5ee3cdb5-9148-4f46-a0c6-e5962df8d651"
+    },
+    {
+      "start_time": 3274,
+      "end_time": 3275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "TJ"
+        }
+      ],
+      "uuid": "2c92d6d2-1ccf-4ef2-87ba-fbaefc683733"
+    }
+  ],
   "set": "Default",
   "event_id": "ea2b8ef3-beda-47e2-a80e-2669e8e85ae1",
   "source_id": "146c5286-969b-4391-aba1-911579db2854"
